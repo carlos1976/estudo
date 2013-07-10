@@ -8,9 +8,9 @@ public class Fatorial {
 
        }
 
-       public static int fatorial(){
+       public static long fatorial(){
      
-         return 17;
+         return 4444444444 ;
 
        }
 
