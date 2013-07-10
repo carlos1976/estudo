@@ -1,3 +1,5 @@
+
+// classe java padão...
 public class Fatorial { 
 
        public static void main (String arg[]){
